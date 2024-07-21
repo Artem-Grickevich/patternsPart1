@@ -12,7 +12,6 @@ public class Main {
     private static final App railroadDelivery = new App(new RailroadDeliveryFactory());
 
     public static void main(String[] args) {
-        //dafsdfsdfsdf
         airDelivery.pack();
         System.out.println("_________________________");
         seaDelivery.pack();
